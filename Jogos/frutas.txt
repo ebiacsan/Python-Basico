@@ -1,9 +1,0 @@
-banana
-laranja
-manga
-melancia
-caqui
-morango
-uva
-pera
-pessego
